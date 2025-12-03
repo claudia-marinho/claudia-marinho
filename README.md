@@ -1,13 +1,11 @@
-# 🌟 Software Engineering Portfolio
+# 🌟 Hi, I’m Cláudia
 
-Hi! I’m **Cláudia Marinho** — a frontend-leaning full-stack engineer focused on building **modern web platforms**, **cloud-native workflows**, and **interactive XR/AI-enabled tools**.
+I’m a frontend-leaning full-stack engineer who enjoys turning complex ideas into smooth, intuitive web platforms. Lately I’ve been diving into **cloud-native tools** and **XR/AI-powered workflows**.
 
----
-
-# 📬 Contact
-
-**GitHub:** https://github.com/claudia-marinho  
-**LinkedIn:** https://linkedin.com/in/claudia-marinho
+- 🌱 **I’m currently learning:** Kubernetes, Helm & advanced DevOps
+- 💬 **Ask me about:** React, Next.js, TypeScript, Node.js
+- 🗂️ **Portfolio:** <portfolio-link>  
+- 📫 **How to reach me:** https://linkedin.com/in/claudia-marinho
 
 <!--
 **claudia-marinho/claudia-marinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
