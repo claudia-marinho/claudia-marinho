@@ -2,7 +2,7 @@
 
 Hi! I’m **Cláudia Marinho** — a frontend-leaning full-stack engineer focused on building **modern web platforms**, **cloud-native workflows**, and **interactive XR/AI-enabled tools**.
 
-Below is a selection of real-world platforms and applications I’ve helped design, build, and maintain.
+Below is a selection of real-world platforms and applications I’ve helped design, build, and maintain at MOG Technologies and EVS Broadcast Equipment.
 
 # ⭐ Featured Projects
 
