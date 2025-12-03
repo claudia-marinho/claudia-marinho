@@ -2,9 +2,9 @@
 
 I’m a frontend-leaning full-stack engineer who enjoys turning complex ideas into smooth, intuitive web platforms. Lately I’ve been diving into **cloud-native tools** and **XR/AI-powered workflows**.
 
+- 🗂️ **Portfolio:** https://github.com/claudia-marinho/claudia-marinho-portfolio
 - 🌱 **I’m currently learning:** Kubernetes, Helm & advanced DevOps
 - 💬 **Ask me about:** React, Next.js, TypeScript, Node.js
-- 🗂️ **Portfolio:** https://github.com/claudia-marinho/claudia-marinho-portfolio
 - 📫 **How to reach me:** https://linkedin.com/in/claudia-marinho
 
 <!--
