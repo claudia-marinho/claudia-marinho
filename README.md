@@ -4,7 +4,7 @@ I’m a frontend-leaning full-stack engineer who enjoys turning complex ideas in
 
 - 🌱 **I’m currently learning:** Kubernetes, Helm & advanced DevOps
 - 💬 **Ask me about:** React, Next.js, TypeScript, Node.js
-- 🗂️ **Portfolio:** <portfolio-link>  
+- 🗂️ **Portfolio:** https://github.com/claudia-marinho/claudia-marinho-portfolio
 - 📫 **How to reach me:** https://linkedin.com/in/claudia-marinho
 
 <!--
